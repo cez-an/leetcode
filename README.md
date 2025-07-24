@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Cez-An/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Cez-An/leetcode/tree/master/0009-palindrome-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1899-count-items-matching-a-rule](https://github.com/Cez-An/leetcode/tree/master/1899-count-items-matching-a-rule) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Cez-An/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Cez-An/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
