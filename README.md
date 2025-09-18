@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Cez-An/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Cez-An/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Queue
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Design
 |  |
 | ------- |
