@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Cez-An/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Cez-An/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [1899-count-items-matching-a-rule](https://github.com/Cez-An/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3632-button-with-longest-push-time](https://github.com/Cez-An/leetcode/tree/master/3632-button-with-longest-push-time) |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cez-An/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Cez-An/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Design
@@ -105,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Cez-An/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
