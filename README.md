@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [1899-count-items-matching-a-rule](https://github.com/Cez-An/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2181-smallest-index-with-equal-value](https://github.com/Cez-An/leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2551-apply-operations-to-an-array](https://github.com/Cez-An/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Cez-An/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Cez-An/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2551-apply-operations-to-an-array](https://github.com/Cez-An/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Cez-An/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Cez-An/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search Tree
 |  |
