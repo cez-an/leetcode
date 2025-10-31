@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Cez-An/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Cez-An/leetcode/tree/master/0009-palindrome-number) |
+| [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Cez-An/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cez-An/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1899-count-items-matching-a-rule](https://github.com/Cez-An/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2181-smallest-index-with-equal-value](https://github.com/Cez-An/leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Cez-An/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Cez-An/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Design
 |  |
