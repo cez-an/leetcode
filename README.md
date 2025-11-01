@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Cez-An/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Cez-An/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Cez-An/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3632-button-with-longest-push-time](https://github.com/Cez-An/leetcode/tree/master/3632-button-with-longest-push-time) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Cez-An/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Cez-An/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Cez-An/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Cez-An/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Cez-An/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Cez-An/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
 | ------- |
