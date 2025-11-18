@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Cez-An/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Cez-An/leetcode/tree/master/0009-palindrome-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Cez-An/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Cez-An/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
