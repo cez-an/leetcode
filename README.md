@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Cez-An/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Cez-An/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Cez-An/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/Cez-An/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Cez-An/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Cez-An/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Cez-An/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Cez-An/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search Tree
 |  |
