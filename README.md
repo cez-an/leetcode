@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Cez-An/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Cez-An/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Cez-An/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cez-An/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Cez-An/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
