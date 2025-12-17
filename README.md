@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Cez-An/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cez-An/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Cez-An/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Cez-An/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
