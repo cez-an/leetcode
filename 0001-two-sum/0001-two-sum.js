@@ -14,3 +14,6 @@ var twoSum = function(nums, target) {
     }
 
 };
+
+//[11,23,7,34,2]
+//[-2,-14,2,-25,7]
