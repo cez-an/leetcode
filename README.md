@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Cez-An/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Cez-An/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Cez-An/leetcode/tree/master/0066-plus-one) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Cez-An/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Cez-An/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Cez-An/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Cez-An/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Cez-An/leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Cez-An/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Cez-An/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
