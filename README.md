@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Cez-An/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Cez-An/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Cez-An/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Cez-An/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/Cez-An/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search Tree
