@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cez-An/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Cez-An/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Cez-An/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3697-compute-decimal-representation](https://github.com/Cez-An/leetcode/tree/master/3697-compute-decimal-representation) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Cez-An/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Cez-An/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3632-button-with-longest-push-time](https://github.com/Cez-An/leetcode/tree/master/3632-button-with-longest-push-time) |
+| [3697-compute-decimal-representation](https://github.com/Cez-An/leetcode/tree/master/3697-compute-decimal-representation) |
 ## Two Pointers
 |  |
 | ------- |
