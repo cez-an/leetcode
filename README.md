@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Cez-An/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1899-count-items-matching-a-rule](https://github.com/Cez-An/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Cez-An/leetcode/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Cez-An/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Cez-An/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Cez-An/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
