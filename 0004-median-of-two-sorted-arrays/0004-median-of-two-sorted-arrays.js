@@ -4,8 +4,7 @@
  * @return {number}
  */
 var findMedianSortedArrays = function(nums1, nums2) {
-
-    let arr1Length=nums1.length;
+        let arr1Length=nums1.length;
     let arr2Length=nums2.length;
 
     let totalLength=arr1Length+arr2Length;
@@ -22,5 +21,5 @@ var findMedianSortedArrays = function(nums1, nums2) {
     }else{
         let result=sortedArray[indexNumber-1];
         return result;
-    }      
-};      
+    } 
+};
