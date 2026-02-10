@@ -3,10 +3,21 @@
  * @return {boolean}
  */
 var isPalindrome = function (s) {
-    const string = s.split("").filter((x) => /[a-zA-Z0-9]/.test(x)).join("").toLowerCase();
-    console.log(string)
-    if (string.length === 0 ) return true;
-    if (string.length === 1 ) return true;
-    if(string === string.split('').reverse().join('') && string.length !== 1 ) return true;
-    return false;
+    
+    if (s.length <= 1) return true;
+
+    const srt = s.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
+
+    if (srt.length <= 1) return true;
+
+    let left = 0;
+    let right = srt.length - 1;
+
+    while (left < right) {
+        if (srt[left++] !== srt[right--]) return false
+    }
+
+    return true;
 };
+
+   // console.log(srt)
