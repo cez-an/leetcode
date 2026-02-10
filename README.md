@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Cez-An/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Cez-An/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Cez-An/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Cez-An/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Cez-An/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Cez-An/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Cez-An/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Cez-An/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -207,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Cez-An/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
