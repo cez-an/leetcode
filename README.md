@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Cez-An/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Cez-An/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Cez-An/leetcode/tree/master/1051-height-checker) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Cez-An/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Cez-An/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Cez-An/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Cez-An/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cez-An/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Cez-An/leetcode/tree/master/0290-word-pattern) |
