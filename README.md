@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Cez-An/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Cez-An/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cez-An/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cez-An/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Cez-An/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Cez-An/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3697-compute-decimal-representation](https://github.com/Cez-An/leetcode/tree/master/3697-compute-decimal-representation) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Cez-An/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Cez-An/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Cez-An/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cez-An/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Cez-An/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Cez-An/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Cez-An/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Cez-An/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cez-An/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Cez-An/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
