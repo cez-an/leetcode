@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Cez-An/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Cez-An/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/Cez-An/leetcode/tree/master/0575-distribute-candies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cez-An/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Cez-An/leetcode/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Cez-An/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Cez-An/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cez-An/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0575-distribute-candies](https://github.com/Cez-An/leetcode/tree/master/0575-distribute-candies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cez-An/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Cez-An/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Cez-An/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
