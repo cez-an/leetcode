@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Cez-An/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Cez-An/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3110-score-of-a-string](https://github.com/Cez-An/leetcode/tree/master/3110-score-of-a-string) |
 ## Linked List
 |  |
 | ------- |
